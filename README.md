@@ -13,7 +13,7 @@
       <img src="https://streak-stats.demolab.com?user=JohnJosephTopacio&theme=github-dark&hide_border=true&hide_total_contributions=true&hide_current_streak=true&card_width=260&background=0D1117&sideNums=3FB950&sideLabels=8B949E&dates=8B949E&disable_animations=true" width="260" alt="Joseph's longest GitHub contribution streak" />
     </td>
     <td width="34%" align="center" valign="middle">
-      <img src="./assets/pern-stack.svg" width="260" alt="PERN stack: PostgreSQL, Express, React and Node.js" />
+      <img src="./assets/pern-stack.svg?v=2" width="260" alt="PERN stack: PostgreSQL, Express, React and Node.js" />
     </td>
   </tr>
 </table>
