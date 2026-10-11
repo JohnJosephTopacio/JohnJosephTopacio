@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hello! I'm Joseph 
 
-<!--
-**JohnJosephTopacio/JohnJosephTopacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack software engineer who firmly believes in learning the fundamentals, building a strong foundation, and using AI as a force multiplier.
 
-Here are some ideas to get you started:
+## Activity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://contribution.oooo.so/_/JohnJosephTopacio?chart=calendar&weeks=26&format=svg&dark=true"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://contribution.oooo.so/_/JohnJosephTopacio?chart=calendar&weeks=26&format=svg"
+  />
+  <img
+    alt="Joseph's GitHub contributions during the last six months"
+    src="https://contribution.oooo.so/_/JohnJosephTopacio?chart=calendar&weeks=26&format=svg"
+  />
+</picture>
+
+## Longest streak
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com?user=JohnJosephTopacio&theme=dark&hide_border=true&hide_total_contributions=true&hide_current_streak=true"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://streak-stats.demolab.com?user=JohnJosephTopacio&theme=default&hide_border=true&hide_total_contributions=true&hide_current_streak=true"
+  />
+  <img
+    alt="Joseph's longest GitHub contribution streak"
+    src="https://streak-stats.demolab.com?user=JohnJosephTopacio&hide_border=true&hide_total_contributions=true&hide_current_streak=true"
+  />
+</picture>
