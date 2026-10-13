@@ -1,7 +1,7 @@
 # Hello! I'm Joseph 👋
 
 <h3 align="center">
-  I'm a full-stack software engineer who believes in learning the fundamentals, building a strong foundation, and using AI as a force multiplier.
+  I'm a full-stack developer who believes in learning the fundamentals, building a strong foundation, and using AI as a force multiplier.
 </h3>
 
 <table>
@@ -17,3 +17,9 @@
     </td>
   </tr>
 </table>
+
+## What I'm interested in
+
+I'm interested in the **why** behind software. Why systems behave the way they do and why certain approaches work better than others.
+
+I'm particularly interested in backend development, scalable systems, and learning how to write code that is clearer, more reliable, and easier to maintain.
