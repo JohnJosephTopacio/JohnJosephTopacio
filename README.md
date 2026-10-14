@@ -10,7 +10,7 @@ I'm a full-stack developer focused on building strong software engineering funda
 
 I tend to ask **why** before moving on:
 
-- What problem is this feature meant to solve?
+- Why is this feature being implemented?
 - Why is this system built this way?
 - Why is this approach a better fit than the alternatives?
 
