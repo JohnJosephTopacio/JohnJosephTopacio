@@ -10,9 +10,9 @@ I'm a full-stack developer focused on building strong software engineering funda
 
 I tend to ask **why** before moving on:
 
-- Why is this approach better than the other?
+- What problem is this feature meant to solve?
 - Why is this system built this way?
-- Why is this design better?
+- Why is this approach a better fit than the alternatives?
 
 <table>
   <tr>
@@ -30,11 +30,11 @@ I tend to ask **why** before moving on:
 
 ## 02 / How I Learn
 
-> Start with the fundamentals before relying on abstractions.
+> Start with the fundamentals. A strong grasp of the basics builds intuition for more complex ideas.
 >
-> Understand the trade-offs behind technical decisions.
+> Understand the purpose behind each feature and design decision.
 >
-> Stay with the question until I can explain it clearly.
+> Don't move on until I can explain a concept clearly.
 
 ## 03 / Direction
 
