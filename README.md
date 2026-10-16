@@ -6,7 +6,7 @@ Software Engineering Student · Backend-oriented
 
 ## 01 / About
 
-I'm a full-stack developer focused on building strong software engineering fundamentals. I'm increasingly drawn to backend systems and learning to develop the technical judgment required to make wise choices that balance scalability, robustness, and system safety. Ultimately, when writing or producing code, I am focused on crafting highly readable, well-structured logic that effortlessly scales as the system grows.
+I'm a full-stack developer focused on building strong software engineering fundamentals. I'm increasingly drawn to backend systems and learning to develop the technical judgment required to make wise choices that balance scalability, robustness, and system safety. Ultimately, when writing or producing code, I am focused on learning how to craft highly readable, well-structured logic that effortlessly scales as the system grows.
 
 I tend to ask **why** before moving on:
 
