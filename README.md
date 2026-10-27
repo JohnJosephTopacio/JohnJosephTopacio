@@ -6,13 +6,11 @@ Software Engineering Student · Backend-oriented
 
 ## 01 / About
 
-I'm a full-stack developer focused on building strong software engineering fundamentals. I'm increasingly drawn to backend systems and learning to develop the technical judgment required to make wise choices that balance scalability, robustness, and system safety. Ultimately, when writing or producing code, I am focused on learning how to craft highly readable, well-structured logic that effortlessly scales as the system grows.
+I’m a full-stack developer focused on building strong software engineering fundamentals. I’m increasingly drawn to backend systems, especially how data is modeled, how services stay correct under concurrent requests, and the trade-offs behind each design decision.
 
-I tend to ask **why** before moving on:
+I believe in <b>building foundations</b> first, so I hand-coded my first projects. Along the way, I learned to read documentation closely, read and refactor existing code, trace bugs to their source, and really get to know TypeScript, PostgreSQL, and the libraries I used. Those projects include a full-stack PERN app, a headless storefront built with Next.js and Sanity CMS, and a command-line caching proxy.
 
-- Why is this feature being implemented?
-- Why is this system built this way?
-- Why is this approach a better fit than the alternatives?
+Now I’m exploring agentic AI workflows, building with proper CI/CD in place, and looking for software solutions to the problems I run into.
 
 <table>
   <tr>
@@ -28,21 +26,13 @@ I tend to ask **why** before moving on:
   </tr>
 </table>
 
-## 02 / How I Learn
-
-> Start with the fundamentals. A strong grasp of the basics builds intuition for more complex ideas.
->
-> Understand the purpose behind each feature and design decision.
->
-> Don't move on until I can explain a concept clearly.
-
-## 03 / Direction
+## 02 / Direction
 
 I'm currently pursuing software engineering internship opportunities while working toward backend and cloud engineering.
 
 My long-term goal is to develop deep technical expertise and the engineering judgment to build systems that are robust, efficient, and grounded in sound technical decisions.
 
-## 04 / Working With
+## 03 / Working With
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
